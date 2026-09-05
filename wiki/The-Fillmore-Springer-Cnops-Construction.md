@@ -48,7 +48,8 @@ points along any secant. It vanishes exactly when the point lies on the circle,
 it is positive outside and negative inside, and it is the quantity that
 inversion in the circle preserves up to scale. Everything on the
 [dictionary page](The-Inversive-Dictionary.md) turns on the fact that the
-*resultant* of a linear and a quadratic binary form is this classical quantity.
+*resultant* of a linear and a quadratic binary form is this classical quantity
+(Figure 1 there draws it).
 
 ## 3. The one-dimensional case: cycles on a line are point-pairs
 
@@ -138,9 +139,9 @@ one-parameter subgroups of $`\mathrm{SL}_2(\mathbb{R})`$:
 | parabolic | $`N`$, unipotent | one | null rotation |
 | hyperbolic | $`A`$, the diagonal torus | two distinct real points | boost |
 
-The [stabilizer-torus page](The-Stabilizer-Torus-and-the-EPH-Trichotomy.md) shows
-that the grading of the counterexample is a subgroup of the third kind, and
-why it could not have been of the first. In a second sense [Kisil 2018] the
+The [stabilizer-torus page](The-Stabilizer-Torus-and-the-EPH-Trichotomy.md) draws
+the three pencils (Figure 2) and shows that the grading of the counterexample
+is a subgroup of the third kind, and why it could not have been of the first. In a second sense [Kisil 2018] the
 construction passes from single cycles to *ensembles* of cycles; that extension
 is not used here.
 

@@ -130,6 +130,10 @@ identity is used in the derivation: it belongs to the common
 binary-form/$`\mathrm{SL}_2`$ backbone, with inversive geometry contributing
 the parallel vocabulary.
 
+![The elliptic, parabolic, hyperbolic trichotomy](https://raw.githubusercontent.com/wiki/davidfillmore/FSCc/images/eph-trichotomy.svg)
+
+*Figure 2. The three kinds of one-parameter subgroup of SL₂(ℝ) on the upper half-plane, as the three classical pencils of circles: the circles about an interior point (elliptic, a rotation), the horocycles at one boundary point (parabolic), and the arcs through two boundary points (hyperbolic, a boost). The stabilizer torus of the slicing datum fixes its double root and its simple root, so the counterexample's grading is of the third kind.*
+
 ## 4. The little groups of the three detectors
 
 The slicing operator $`D`$ is dual to a binary cubic, a configuration of three

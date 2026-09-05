@@ -32,6 +32,10 @@ twisted cubic $`\Gamma`$ of perfect cubes. Their little groups differ
 boost for $`(2,1)`$; for $`(1,1,1)`$ only the finite anharmonic group $`S_3`$;
 for $`(3)`$ a Borel subgroup.
 
+![The three detectors and their little groups](https://raw.githubusercontent.com/wiki/davidfillmore/FSCc/images/three-detectors.svg)
+
+*Figure 4. The three root patterns of the slicing cubic on the line and the flows of their little groups: a Borel subgroup for the triple root, the torus for the double-and-simple pattern, and only the finite anharmonic permutations for three distinct roots. Only the middle detector, the tangent one, yields affine space.*
+
 > **Proposition 7.1** (the $`d=3`$ trichotomy). Let
 > $`\pi:\mathbb{P}^1\times\mathbb{P}^2\to\mathbb{P}^3`$ be the multiplication
 > map of [Speyer], with ramification divisor $`R=\{\mathrm{Res}=0\}`$ of class

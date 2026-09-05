@@ -3,7 +3,7 @@
 This directory mirrors the project's GitHub wiki
 (<https://github.com/davidfillmore/FSCc/wiki>) so that repository archives
 carry the pages. The 10 Markdown files come from
-`davidfillmore/FSCc.wiki.git` at commit `4590a3e51cde54118a45994b48f18aa71f25d3c1`, dated 2026-09-05. Page content
+`davidfillmore/FSCc.wiki.git` at commit `e202de053e7d933ee3d778cec74986d72bc1f8c7`, dated 2026-09-05. Page content
 is unchanged except that wiki-style relative page links have `.md` appended
 so that they resolve here. The wiki is the source of record: edit there,
 then re-run `python3 tools/mirror-wiki.py` from the repository root (mirror
