@@ -4,8 +4,10 @@
 July 2026 Jacobian-conjecture counterexample.**
 
 The mathematics lives in this repository's
-[wiki](https://github.com/davidfillmore/FSCc/wiki). This repository holds the
-exact-arithmetic certificates behind it.
+[wiki](https://github.com/davidfillmore/FSCc/wiki), mirrored under
+[`wiki/`](wiki/README.md) so that archives carry the pages (the wiki is the
+source of record; `python3 tools/mirror-wiki.py` refreshes the mirror). This
+repository holds the exact-arithmetic certificates behind it.
 
 **What the wiki says, in one sentence.** The
 $\mathrm{SL}_2$-invariant core of Alpöge's counterexample, as reconstructed by
