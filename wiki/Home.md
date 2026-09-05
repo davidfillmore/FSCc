@@ -1,5 +1,7 @@
 # FSCc: the Fillmore–Springer–Cnops construction and the Jacobian counterexample
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22410283.svg)](https://doi.org/10.5281/zenodo.22410283)
+
 > **Status.** Machine-certified. Every computational claim on these pages is
 > certified in exact arithmetic by the suites in the
 > [FSCc repository](https://github.com/davidfillmore/FSCc) (see
