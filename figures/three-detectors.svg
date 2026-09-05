@@ -1,0 +1,54 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1320' height='440' viewBox='0 0 1320 440'>
+<rect width='1320' height='440' fill='white'/>
+<text x='230.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Triple root (3): osculating detector</text>
+<line x1='30' y1='330' x2='430' y2='330' stroke='#222' stroke-width='1.4'/><text x='428' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<circle cx='230.0' cy='291.53846153846155' r='38.46153846153846' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.5'/>
+<polygon points='234.2,253.1 225.8,256.6 225.8,249.6' fill='#1f5fbf'/>
+<circle cx='230.0' cy='245.3846153846154' r='84.61538461538461' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.5'/>
+<polygon points='234.2,160.8 225.8,164.3 225.8,157.3' fill='#1f5fbf'/>
+<line x1='230.0' y1='330.0' x2='419.03508714361345' y2='197.63620699591246' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8'/>
+<polygon points='422.5,195.2 417.6,202.9 413.6,197.2' fill='#1f5fbf'/>
+<line x1='230.0' y1='330.0' x2='327.52729117093065' y2='120.85204914538849' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8'/>
+<polygon points='329.3,117.0 328.9,126.1 322.6,123.2' fill='#1f5fbf'/>
+<line x1='230.0' y1='330.0' x2='230.0' y2='99.23076923076923' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8'/>
+<polygon points='230.0,95.0 233.5,103.4 226.5,103.4' fill='#1f5fbf'/>
+<line x1='230.0' y1='330.0' x2='132.4727088290694' y2='120.85204914538846' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8'/>
+<polygon points='130.7,117.0 137.4,123.2 131.1,126.1' fill='#1f5fbf'/>
+<line x1='230.0' y1='330.0' x2='40.96491285638649' y2='197.6362069959125' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8'/>
+<polygon points='37.5,195.2 46.4,197.2 42.4,202.9' fill='#1f5fbf'/>
+<circle cx='230.0' cy='330.0' r='7' fill='none' stroke='#1f5fbf' stroke-width='1.8'/><circle cx='230.0' cy='330.0' r='3.5' fill='#1f5fbf'/>
+<text x='230.0' y='354.0' font-size='12' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>0, a triple root</text>
+<text x='30' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Stabilizer of s³ up to scalar: β = 0, a Borel subgroup</text><text x='30' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>(dimension 2): every map fixing 0. Contains the</text><text x='30' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>torus and a unipotent subgroup. Slice: punctured line × plane, not affine space.</text>
+<text x='660.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Double and simple root (2,1): tangent detector</text>
+<line x1='460' y1='330' x2='860' y2='330' stroke='#222' stroke-width='1.4'/><text x='858' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<line x1='660.0' y1='330.0' x2='859.8520162579473' y2='214.61538461538464' stroke='#1f5fbf' stroke-width='1.6' opacity='0.85'/>
+<polygon points='863.5,212.5 858.0,219.7 854.5,213.7' fill='#1f5fbf'/>
+<line x1='660.0' y1='330.0' x2='792.3637930040876' y2='140.96491285638652' stroke='#1f5fbf' stroke-width='1.6' opacity='0.85'/>
+<polygon points='794.8,137.5 792.8,146.4 787.1,142.4' fill='#1f5fbf'/>
+<line x1='660.0' y1='330.0' x2='660.0' y2='99.23076923076923' stroke='#1f5fbf' stroke-width='1.6' opacity='0.85'/>
+<polygon points='660.0,95.0 663.5,103.4 656.5,103.4' fill='#1f5fbf'/>
+<line x1='660.0' y1='330.0' x2='527.6362069959124' y2='140.96491285638655' stroke='#1f5fbf' stroke-width='1.6' opacity='0.85'/>
+<polygon points='525.2,137.5 532.9,142.4 527.2,146.4' fill='#1f5fbf'/>
+<line x1='660.0' y1='330.0' x2='460.14798374205265' y2='214.61538461538464' stroke='#1f5fbf' stroke-width='1.6' opacity='0.85'/>
+<polygon points='456.5,212.5 465.5,213.7 462.0,219.7' fill='#1f5fbf'/>
+<circle cx='660.0' cy='330.0' r='7' fill='none' stroke='#1f5fbf' stroke-width='1.8'/><circle cx='660.0' cy='330.0' r='3.5' fill='#1f5fbf'/>
+<text x='660.0' y='354.0' font-size='12' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>0, the double root</text>
+<text x='660.0' y='74.0' font-size='12' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>∞, the simple root</text>
+<text x='460' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Stabilizer of s²t up to scalar: β = γ = 0, the torus T,</text><text x='460' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>the boost fixing 0 and ∞: weights (2, −2, −4), i.e. (1, −1, −2).</text><text x='460' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Slice: affine space, the counterexample.</text>
+<text x='1090.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Three distinct roots (1,1,1): transverse detector</text>
+<line x1='890' y1='330' x2='1290' y2='330' stroke='#222' stroke-width='1.4'/><text x='1288' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 1013.0769230769231 330.0 A 76.92307692307692 76.92307692307692 0 0 1 1166.923076923077 330.0' fill='none' stroke='#8a8a8a' stroke-width='1.4' opacity='1.0' stroke-dasharray='5 4'/>
+<polygon points='1085.8,253.1 1094.2,249.6 1094.2,256.6' fill='#8a8a8a'/>
+<path d='M 1013.0769230769231 330 A 38.46153846153846 38.46153846153846 0 0 1 1090.0 330' fill='none' stroke='#8a8a8a' stroke-width='1.4' opacity='1.0' stroke-dasharray='5 4'/>
+<polygon points='1055.7,291.5 1047.3,295.0 1047.3,288.0' fill='#8a8a8a'/>
+<path d='M 1090.0 330 A 38.46153846153846 38.46153846153846 0 0 1 1166.923076923077 330' fill='none' stroke='#8a8a8a' stroke-width='1.4' opacity='1.0' stroke-dasharray='5 4'/>
+<polygon points='1132.7,291.5 1124.3,295.0 1124.3,288.0' fill='#8a8a8a'/>
+<circle cx='1013.0769230769231' cy='330.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='1013.0769230769231' y='352.0' font-size='14' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>−1</text>
+<circle cx='1090.0' cy='330.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='1090.0' y='352.0' font-size='14' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>0</text>
+<circle cx='1166.923076923077' cy='330.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='1166.923076923077' y='352.0' font-size='14' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>1</text>
+<text x='1090.0' y='237.53846153846155' font-size='12' fill='#8a8a8a' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>a 3-cycle of the roots</text>
+<text x='890' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Stabilizer of st(s − t) up to scalar: the anharmonic group</text><text x='890' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>S₃ permuting the three roots (3-cycles and swaps), finite: no</text><text x='890' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>one-parameter subgroup, no grading. Slice: not affine space (χ = 0).</text>
+</svg>

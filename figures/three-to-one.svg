@@ -1,0 +1,40 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1320' height='320' viewBox='0 0 1320 320'>
+<rect width='1320' height='320' fill='white'/>
+<text x='230.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Split 1: point −1, pair {1/2, 2}</text>
+<line x1='30' y1='200' x2='430' y2='200' stroke='#222' stroke-width='1.4'/><text x='428' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 230.00000000000003 200 A 55.55555555555556 55.55555555555556 0 0 1 341.11111111111114 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<line x1='118.8888888888889' y1='200.0' x2='267.03703703703707' y2='147.6217199121076' stroke='#2a9d5c' stroke-width='2.2'/>
+<polyline points='269.2592592592593,153.9071135226547 275.5446528698063,151.68489130043247 273.32243064758416,145.39949768988538' fill='none' stroke='#8a8a8a' stroke-width='1'/>
+<circle cx='118.8888888888889' cy='200.0' r='4.5' fill='#c8102e' stroke='#c8102e' stroke-width='1.8'/>
+<circle cx='230.00000000000003' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='341.11111111111114' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='118.8888888888889' y='222.0' font-size='14' fill='#c8102e' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>−1</text>
+<text x='230.00000000000003' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>1/2</text>
+<text x='341.11111111111114' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>2</text>
+<text x='285.55555555555554' y='132.44444444444446' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Q = (u − 1/2)(u − 2)</text>
+<text x='30' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>pow = Q(−1) = 9/2, the point outside the pair: pow &gt; 0;</text><text x='30' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>the scaling (λL, λ⁻¹Q) multiplies Res by λ, so exactly</text><text x='30' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>one λ puts this split on the stratum Res = 1.</text>
+<text x='660.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Split 2: point 1/2, pair {−1, 2}</text>
+<line x1='460' y1='200' x2='860' y2='200' stroke='#222' stroke-width='1.4'/><text x='858' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 548.8888888888889 200 A 111.11111111111111 111.11111111111111 0 0 1 771.1111111111111 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<circle cx='548.8888888888889' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='660.0' cy='200.0' r='4.5' fill='#c8102e' stroke='#c8102e' stroke-width='1.8'/>
+<circle cx='771.1111111111111' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='548.8888888888889' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>−1</text>
+<text x='660.0' y='222.0' font-size='14' fill='#c8102e' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>1/2</text>
+<text x='771.1111111111111' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>2</text>
+<text x='660.0' y='76.88888888888889' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Q = (u + 1)(u − 2)</text>
+<text x='460' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>pow = Q(1/2) = −9/4, the point between the pair: pow &lt; 0;</text><text x='460' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>the scaling (λL, λ⁻¹Q) multiplies Res by λ, so exactly</text><text x='460' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>one λ puts this split on the stratum Res = 1.</text>
+<text x='1090.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Split 3: point 2, pair {−1, 1/2}</text>
+<line x1='890' y1='200' x2='1290' y2='200' stroke='#222' stroke-width='1.4'/><text x='1288' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 978.8888888888889 200 A 55.55555555555556 55.55555555555556 0 0 1 1090.0 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<line x1='1201.111111111111' y1='200.0' x2='1052.962962962963' y2='147.6217199121076' stroke='#2a9d5c' stroke-width='2.2'/>
+<polyline points='1050.7407407407409,153.9071135226547 1057.026134351288,156.12933574487693 1059.2483565735101,149.8439421343298' fill='none' stroke='#8a8a8a' stroke-width='1'/>
+<circle cx='978.8888888888889' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='1090.0' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='1201.111111111111' cy='200.0' r='4.5' fill='#c8102e' stroke='#c8102e' stroke-width='1.8'/>
+<text x='978.8888888888889' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>−1</text>
+<text x='1090.0' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>1/2</text>
+<text x='1201.111111111111' y='222.0' font-size='14' fill='#c8102e' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>2</text>
+<text x='1034.4444444444443' y='132.44444444444446' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Q = (u + 1)(u − 1/2)</text>
+<text x='890' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>pow = Q(2) = 9/2, the point outside the pair: pow &gt; 0;</text><text x='890' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>the scaling (λL, λ⁻¹Q) multiplies Res by λ, so exactly</text><text x='890' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>one λ puts this split on the stratum Res = 1.</text>
+</svg>
