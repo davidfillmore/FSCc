@@ -20,8 +20,7 @@ September 5, 2026 from the program's private phase-2 preflight suite (33 checks,
 July 27, 2026) and phase-2 blocks [06], [09-pre], [09] (July 28-29, 2026;
 check 09.6 carries the repair from the July 29 cross-model review). The
 remaining checks of [C] and block [F] were written for this repository on
-September 5, 2026 and certify identities stated in the notes. Certification is
-not review.
+September 5, 2026 and certify identities stated in the notes.
 """
 import sympy as sp
 

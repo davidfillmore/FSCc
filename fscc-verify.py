@@ -17,7 +17,7 @@ Blocks, cross-referenced from the wiki pages:
 Provenance: adapted on September 5, 2026 from the phase-1 suite of the program's
 private repository (38 checks, July 28-29, 2026; the Hessian-conjecture block
 [04] is omitted here as out of scope). Block numbers are kept so that citations
-in the wiki match. Certification is not review.
+in the wiki match.
 """
 import time
 import sympy as sp

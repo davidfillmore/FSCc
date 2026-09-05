@@ -19,8 +19,7 @@ every cycle formalism, and the multiplication mechanism has a hard floor at
 dimension three.
 
 **Status.** Every computational claim on the wiki is certified here in exact
-arithmetic (SymPy over $\mathbb{Q}$, no floating point). The mathematics has
-not undergone independent human review. *Certification is not review.*
+arithmetic (SymPy over $\mathbb{Q}$, no floating point).
 
 ## Certificates
 
