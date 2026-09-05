@@ -1,5 +1,7 @@
 # FSCc
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22410283.svg)](https://doi.org/10.5281/zenodo.22410283)
+
 **The Fillmore–Springer–Cnops construction and the inversive geometry of the
 July 2026 Jacobian-conjecture counterexample.**
 
@@ -51,6 +53,17 @@ names are kept so that citations match. The wiki's
 [Bibliography and provenance](https://github.com/davidfillmore/FSCc/wiki/Bibliography-and-Provenance)
 page records the sources, the surrounding July–September 2026 literature, and
 the disclosures the territory record requires.
+
+## Citing
+
+Releases are archived on Zenodo. The concept DOI
+[10.5281/zenodo.22410283](https://doi.org/10.5281/zenodo.22410283) always
+resolves to the latest version; the September 5, 2026 release
+`v2026.09.05` is [10.5281/zenodo.22410284](https://doi.org/10.5281/zenodo.22410284).
+
+> D. W. Fillmore, *FSCc: the Fillmore–Springer–Cnops construction and the
+> inversive geometry of the Jacobian-conjecture counterexample*, software and
+> wiki, Zenodo, 2026. doi:10.5281/zenodo.22410283
 
 ## License
 

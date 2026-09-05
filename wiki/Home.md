@@ -52,6 +52,13 @@ counterexample but not the cycle formalism: start with
 [The Fillmore–Springer–Cnops construction](The-Fillmore-Springer-Cnops-Construction.md).
 Everything downstream uses only [The Möbius group and binary forms](The-Mobius-Group-and-Binary-Forms.md).
 
+## Citing
+
+The repository and this wiki are archived on Zenodo: concept DOI
+[10.5281/zenodo.22410283](https://doi.org/10.5281/zenodo.22410283) (all
+versions); the September 5, 2026 release is
+[10.5281/zenodo.22410284](https://doi.org/10.5281/zenodo.22410284).
+
 ## Provenance and license
 
 The mathematics on these pages was produced in human-directed sessions with
