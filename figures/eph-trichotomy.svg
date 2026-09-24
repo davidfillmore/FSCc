@@ -1,0 +1,44 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1320' height='440' viewBox='0 0 1320 440'>
+<rect width='1320' height='440' fill='white'/>
+<text x='230.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Elliptic: a rotation, no fixed point on the line</text>
+<line x1='30' y1='330' x2='430' y2='330' stroke='#222' stroke-width='1.4'/><text x='428' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<circle cx='230.0' cy='245.15614088030992' r='35.79553976416906' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='1.0'/>
+<polygon points='225.8,209.4 234.2,205.9 234.2,212.9' fill='#1f5fbf'/>
+<circle cx='230.0' cy='223.57454677404934' r='73.54738153758709' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.78'/>
+<polygon points='225.8,150.0 234.2,146.5 234.2,153.5' fill='#1f5fbf'/>
+<circle cx='230.0' cy='196.35270465119922' r='109.2906207811813' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.56'/>
+<polygon points='225.8,87.1 234.2,83.6 234.2,90.6' fill='#1f5fbf'/>
+<circle cx='230.0' cy='253.0769230769231' r='4' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='242.0' y='257.0769230769231' font-size='14' fill='#1f5fbf' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>i</text>
+<text x='30' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Orbits of the subgroup fixing the interior point i:</text><text x='30' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>the circles about i. Both fixed points are conjugate,</text><text x='30' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>off the line: Kisil&#x27;s elliptic case, Shaska&#x27;s definite signs.</text>
+<text x='660.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Parabolic: one fixed point</text>
+<line x1='460' y1='330' x2='860' y2='330' stroke='#222' stroke-width='1.4'/><text x='858' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<circle cx='660.0' cy='303.0769230769231' r='26.92307692307692' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='1.0'/>
+<polygon points='664.2,276.2 655.8,279.7 655.8,272.7' fill='#1f5fbf'/>
+<circle cx='660.0' cy='272.3076923076923' r='57.69230769230769' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.8200000000000001'/>
+<polygon points='664.2,214.6 655.8,218.1 655.8,211.1' fill='#1f5fbf'/>
+<circle cx='660.0' cy='237.69230769230768' r='92.3076923076923' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.64'/>
+<polygon points='664.2,145.4 655.8,148.9 655.8,141.9' fill='#1f5fbf'/>
+<circle cx='660.0' cy='199.23076923076923' r='130.76923076923077' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.45999999999999996'/>
+<polygon points='664.2,68.5 655.8,72.0 655.8,65.0' fill='#1f5fbf'/>
+<circle cx='660.0' cy='330.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='660.0' y='352.0' font-size='14' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>0</text>
+<text x='460' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Orbits of the unipotent subgroup fixing the single</text><text x='460' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>boundary point 0: the horocycles at 0.</text><text x='460' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>One fixed point on the line: the parabolic case.</text>
+<text x='1090.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Hyperbolic: a boost, two fixed points</text>
+<line x1='890' y1='330' x2='1290' y2='330' stroke='#222' stroke-width='1.4'/><text x='1288' y='322' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 1013.0769230769231 330.0 A 132.34346564680962 132.34346564680962 0 0 1 1166.923076923077 330.0' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.75'/>
+<polygon points='1094.2,305.3 1085.8,308.8 1085.8,301.8' fill='#1f5fbf'/>
+<path d='M 1013.0769230769231 330.0 A 87.7900939270256 87.7900939270256 0 0 1 1166.923076923077 330.0' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.75'/>
+<polygon points='1094.2,284.5 1085.8,288.0 1085.8,281.0' fill='#1f5fbf'/>
+<path d='M 1013.0769230769231 330.0 A 76.92307692307692 76.92307692307692 0 0 1 1166.923076923077 330.0' fill='none' stroke='#1f5fbf' stroke-width='2.2' opacity='1.0'/>
+<polygon points='1094.2,253.1 1085.8,256.6 1085.8,249.6' fill='#1f5fbf'/>
+<path d='M 1013.0769230769231 330.0 A 93.89658165949002 93.89658165949002 0 1 1 1166.923076923077 330.0' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.75'/>
+<polygon points='1094.2,182.3 1085.8,185.8 1085.8,178.8' fill='#1f5fbf'/>
+<path d='M 1013.0769230769231 330.0 A 132.34346564680962 132.34346564680962 0 1 1 1166.923076923077 330.0' fill='none' stroke='#1f5fbf' stroke-width='1.6' opacity='0.75'/>
+<polygon points='1094.2,90.0 1085.8,93.5 1085.8,86.5' fill='#1f5fbf'/>
+<circle cx='1013.0769230769231' cy='330.0' r='7' fill='none' stroke='#1f5fbf' stroke-width='1.8'/><circle cx='1013.0769230769231' cy='330.0' r='3.5' fill='#1f5fbf'/>
+<circle cx='1166.923076923077' cy='330.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='1013.0769230769231' y='352.0' font-size='12' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>double root</text>
+<text x='1166.923076923077' y='352.0' font-size='12' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>simple root</text>
+<text x='890' y='374' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Orbits of the torus fixing two boundary points: the</text><text x='890' y='392' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>arcs through them. The stabilizer of the slicing datum</text><text x='890' y='410' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>fixes its double and its simple root: the counterexample&#x27;s grading.</text>
+</svg>

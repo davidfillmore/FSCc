@@ -1,0 +1,78 @@
+PASS [P1a] s^3-coeff of LQ = p*c
+PASS [P1b] s^2t-coeff of LQ = p*d + q*c
+PASS [P1c] st^2-coeff of LQ = p*e + q*d
+PASS [P1d] t^3-coeff of LQ = q*e
+PASS [P2a] D3(LQ)   = p*c
+PASS [P2b] D21(LQ)  = p*d + q*c
+PASS [P2c] D111(LQ) = p(d-e) + q(c-d)
+PASS [P3a] D3(l^3)   = alpha^3          (contact pattern (3): osculating)
+PASS [P3b] D21(l^3)  = 3 alpha^2 beta   (contact pattern (2,1): tangent, not osculating)
+PASS [P3c] D111(l^3) = 3 alpha beta (alpha - beta)  (contact (1,1,1): transverse)
+PASS [P3d] D3(C) = C(1,0) and equals L(1,0)*Q(1,0)  (osculating = evaluation at r0)
+PASS [P4a] Res(l1 L, l2 Q) = l1^2 l2 Res  (character (2,1))
+PASS [P4b] D3(l1 L * l2 Q) = l1 l2 * D3(LQ)  (character (1,1))
+PASS [P4b] D21(l1 L * l2 Q) = l1 l2 * D21(LQ)  (character (1,1))
+PASS [P4b] D111(l1 L * l2 Q) = l1 l2 * D111(LQ)  (character (1,1))
+PASS [P4c] det [[2,1],[1,1]] = 1 = d-2 at d=3  (unimodular; Skooi's determinant)
+PASS [P4d] M^-1 is integral  =>  Cl(U) = Z^2/<(2,1),(1,1)> = 0 and trivial relation lattice (constant units)
+PASS [P4e] ((l1^2 l2)/(l1 l2), (l1 l2)^2/(l1^2 l2)) = (l1, l2)  (unique normalisation, every D)
+PASS [P5a] rank of pc form = 1  (product => reducible pullback)
+PASS [P5b] rank of pd+qc form = 2  (irreducible pullback)
+PASS [P5c] rank of p(d-e)+q(c-d) form = 2  (irreducible pullback)
+PASS [P5d] pc factors as p * c (two factors)
+PASS [P5e] pd+qc irreducible
+PASS [P5f] p(d-e)+q(c-d) irreducible
+PASS [P5g] Res irreducible  (R is a prime divisor)
+PASS [P6a] parametrisation satisfies Res = 1 identically
+PASS [P6b] parametrisation satisfies pc = 1 identically
+PASS [P6c] on {pc=1}, Res=1 determines e uniquely: e = (1 + pqd - q^2/p)/p^2
+PASS [P6d] (1,0,1,0,1) and (2,0,1/2,0,1/4) both lie on the slice; p takes values 1 and 2
+PASS [P7a] sample point (0,1,1,0,7) lies on the transverse slice
+PASS [P7b] sample point (1,0,11,2,1) lies on the transverse slice
+PASS [P8a] g = [[0,i],[i,0]] in SL2 (det = 1)
+PASS [P8b] st(s-t) o g = i * st(s-t)  (projective stabiliser instance)
+PASS [W.1] D kills Res and is locally nilpotent (D^2 = 0 on the generators c,d,e)
+PASS [W.2] u = ae - bd/2 and v = ad/2 - bc are D-invariants
+PASS [W.3] D(s) = Res, so s = ce - d^2/4 is a global slice on {Res = 1}
+PASS [W.4] au - bv = Res (the SL2 relation au - bv = 1 on the hypersurface)
+PASS [W.5] c = v^2 + a^2 s, d = 2(uv + abs), e = u^2 + b^2 s hold times Res (exact on Res = 1)
+PASS [W.6] inverse parametrisation: Res(a,b,c(U,V,S),d(..),e(..)) = (aU - bV)^2 identically
+PASS [W.7] round trip: u -> U(aU-bV), v -> V(aU-bV), s -> S(aU-bV)^2 (identities on the torsor)
+PASS [W.8] Sawin's y = 2bd - ae is not -2u and not D-invariant: D(y) = 3ab^2
+PASS [W.9] tangent condition ad + bc = 2aUV + bV^2 + 3 a^2 b S in Wlodek coordinates
+PASS [W.10] transverse condition a(d-e)+b(c-d) = -aU^2 + 2(a-b)UV + bV^2 + 3ab(a-b) S
+PASS [W.11] s-coefficients factor as 3*a*a*b (tangent) vs 3*a*b*(a-b) (transverse): contact pattern as factorisation
+PASS [T.1] wall a=0: f_tra = 2u + 1/b (u-dependent -> Z_a = Gm) vs f_tan = 1/b (u-free -> Z_a = A^1 at b=1)
+PASS [T.2] walls b=0: f_tra = -1/a + 2v, f_tan = 2v; wall a=b: f_tra = -(2v + 1/a); all give Z = Gm
+PASS [T.3] a=0 & b=0 forces au-bv = 0 != 1: the walls {a=0},{b=0},{a=b} are pairwise disjoint on SL2
+PASS [T.4a] transverse minors: m1 = b^2(2a-b), m2 = -ab(a+b), m3 = a^2(2b-a)
+PASS [T.4b] resultants of (m1,m3) are pure monomials => V(m1,m3) = {(0,0)}: no fibre jump, R cap pi^-1(H_tra) ~ P^1, chi = 2
+PASS [T.5] tangent minors = (2ab^2, -a^2b, -a^3): common zero locus exactly {a=0}: a single fibre jump
+PASS [T.6] Res-functional coefficients (b^2, -ab, a^2) vanish together only at a=b=0: R is a P^1-fibration, chi(R) = 4
+PASS [T.7] chi_c(X_transverse) = 0 by both routes; chi_c(X_tangent) = 1 by both routes (= chi_c(A^3))
+PASS [T.8] osculating: chi_c = 0 = chi(Gm x A^2), third consistency point
+PASS [T.9] THEOREM: chi_c(X_transverse) = 0 != 1 = chi_c(A^3): the transverse slice is not A^3 (nor contractible)
+PASS [C.1] removed classes {(2,1),(1,1)} are a unimodular basis: Cl = 0 and constant units in cases (2)-(3)
+PASS [C.2] anharmonic S3 instances: (s,t)->(t,s) gives -W; (s,t)->(s,s-t) gives +W for W = st(s-t)
+PASS [C.3] osculating detector s^3: g stabilises it up to scalar iff beta = 0 (Borel little group)
+PASS [C.4] tangent detector s^2 t: g stabilises it up to scalar iff beta = gamma = 0 (the torus T)
+PASS [C.5] the Weyl element sends s^2 t to -s t^2 (does not stabilise); T_lam scales s^2 t by lam
+PASS [C.6] S_1 x S_2 has index 3 in S_3 and is not normal: three sheets, no global deck symmetry
+PASS [C.7] for n = 2 the Young subgroup S_1 x S_1 is trivial, hence normal: two sheets are always symmetric
+PASS [F.1] Prop 6.1: Res(l1 F, l2 G) = l1^b l2^a Res(F,G) for (a,b) in {(1,1),(1,2),(2,1),(2,2),(1,3),(2,3),(3,4)}
+PASS [F.2] disc(L1 L2) = Res(L1,L2)^2 with Res(L1,L2) = p1 q2 - q1 p2
+PASS [F.3] (1,1): the product-preserving scaling fixes Res, so Res = 1 cannot fix the gauge
+PASS [F.4] Thm 6.2(2): invariants A,B,C,D satisfy AD = BC, and B - C = Res (so C = B - 1 on Res = 1)
+PASS [F.5] Thm 6.2(2): V = {AD = B(B-1)} is smooth (the only critical point of B^2 - B - AD is off V)
+PASS [F.6] Thm 6.2(2): the closure {B^2 - BW - AD = 0} is a smooth quadric and the boundary conic B^2 = AD has rank 3
+PASS [F.7] Thm 6.2(3): L1 L2 has coefficients (A, B + C, D) = (A, 2B - 1, D) on Res = 1, and disc = 1 on V
+PASS [F.8] Thm 6.3: disc o pi = delta^2 (pi^*(branch conic) = 2 Delta); the tangent pencil at r0 = oo is {c = 0}
+PASS [F.9] Thm 6.3: the line {c = 0} meets the conic {d^2 = 4ce} in the double point (0:0:1): tangency
+PASS [F.10] Thm 6.3(1): the unit delta/(p1 p2) is the difference of the two roots q2/p2 - q1/p1
+PASS [F.11] Prop 7.4: the character matrix [[d-1,1],[1,1]] has determinant d - 2 for d = 2..8
+PASS [F.12] Prop 7.4: (L,Q) -> (zeta L, zeta^-1 Q) multiplies Res by zeta^(d-2): mu_(d-2) fixes both constraints
+PASS [F.13] Prop 7.5: the character matrix [[b,a],[1,1]] has determinant b - a
+PASS [F.14] Prop 7.5 / Thm 6.4: lam^m = 1 has exactly m distinct solutions over C for m = 1..6
+PASS [F.15] Thm 6.4(2): generic degree m*binom(n,a) = 3 at (1,2); Prop 7.4: 1 = (d-2) chi is unsolvable for d = 4..8
+
+76 checks; sympy 1.14.0; FAILS: none

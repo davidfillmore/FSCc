@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1320' height='310' viewBox='0 0 1320 310'>
+<rect width='1320' height='310' fill='white'/>
+<text x='230.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Power of a point with respect to a cycle</text>
+<line x1='30' y1='200' x2='430' y2='200' stroke='#222' stroke-width='1.4'/><text x='428' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 122.30769230769232 200 A 76.92307692307692 76.92307692307692 0 0 1 276.1538461538462 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<line x1='199.23076923076923' y1='200.0' x2='237.6923076923077' y2='133.38266124735088' stroke='#8a8a8a' stroke-width='1.2' stroke-dasharray='4 3'/>
+<line x1='353.0769230769231' y1='200.0' x2='237.6923076923077' y2='133.38266124735088' stroke='#2a9d5c' stroke-width='2.4'/>
+<polyline points='234.23076923076925,139.3782217350893 240.22632971850766,142.83976019662776 243.6878681800461,136.84419970888933' fill='none' stroke='#8a8a8a' stroke-width='1'/>
+<circle cx='122.30769230769232' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='276.1538461538462' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='353.0769230769231' cy='200.0' r='4.5' fill='#c8102e' stroke='#c8102e' stroke-width='1.8'/>
+<circle cx='199.23076923076923' cy='200.0' r='3' fill='#8a8a8a' stroke='#8a8a8a' stroke-width='1.8'/>
+<text x='122.30769230769232' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>a</text>
+<text x='276.1538461538462' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>b</text>
+<text x='353.0769230769231' y='222.0' font-size='14' fill='#c8102e' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>u</text>
+<text x='199.23076923076923' y='222.0' font-size='14' fill='#8a8a8a' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>c</text>
+<text x='207.46153846153848' y='170.69133062367544' font-size='13' fill='#8a8a8a' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>r</text>
+<text x='307.3846153846154' y='160.69133062367544' font-size='14' fill='#2a9d5c' text-anchor='middle' font-style='italic' font-family='Helvetica, Arial, sans-serif'>t</text>
+<text x='199.23076923076923' y='111.07692307692308' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>the cycle {a, b}: Q(u) = (u − a)(u − b)</text>
+<text x='30' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>pow(u) = Q(u) = |u − c|² − r² = t²</text><text x='30' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>here a = −1, b = 1, u = 2: pow = 3, t = √3</text><text x='30' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>pow = 0 iff u lies on the cycle; pow &lt; 0 between a and b</text>
+<text x='660.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Zero-radius cycles are points</text>
+<line x1='460' y1='200' x2='860' y2='200' stroke='#222' stroke-width='1.4'/><text x='858' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 552.3076923076924 200 A 76.92307692307692 76.92307692307692 0 0 1 706.1538461538462 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<path d='M 583.0769230769231 200 A 46.15384615384615 46.15384615384615 0 0 1 675.3846153846154 200' fill='none' stroke='#1f5fbf' stroke-width='1.7' opacity='0.8'/>
+<path d='M 606.1538461538462 200 A 23.076923076923077 23.076923076923077 0 0 1 652.3076923076923 200' fill='none' stroke='#1f5fbf' stroke-width='1.4' opacity='0.6'/>
+<path d='M 621.5384615384615 200 A 7.6923076923076925 7.6923076923076925 0 0 1 636.9230769230769 200' fill='none' stroke='#1f5fbf' stroke-width='1.1' opacity='0.3999999999999999'/>
+<circle cx='629.2307692307693' cy='200.0' r='5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<text x='629.2307692307693' y='224.0' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Z(u₀): the point-cycle, det = 0</text>
+<text x='629.2307692307693' y='109.07692307692308' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>disc Q = (b − a)² shrinks to 0</text>
+<text x='460' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Two roots collide: the semicircle shrinks to the</text><text x='460' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>null vector L², the zero-radius cycle of the root.</text><text x='460' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Pairing a cycle with a point-cycle evaluates Q there.</text>
+<text x='1090.0' y='38' font-size='16' font-weight='bold' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Tao&#x27;s stratum Res(L, Q) = 1: unit power</text>
+<line x1='890' y1='200' x2='1290' y2='200' stroke='#222' stroke-width='1.4'/><text x='1288' y='192' font-size='13' fill='#222' text-anchor='end' font-family='Helvetica, Arial, sans-serif'>the real line</text>
+<path d='M 982.3076923076923 200 A 57.69230769230769 57.69230769230769 0 0 1 1097.6923076923076 200' fill='none' stroke='#1f5fbf' stroke-width='2.0' opacity='1.0'/>
+<line x1='1040.0' y1='200.0' x2='1074.6153846153845' y2='153.84615384615384' stroke='#8a8a8a' stroke-width='1.2' stroke-dasharray='4 3'/>
+<line x1='1136.1538461538462' y1='200.0' x2='1074.6153846153845' y2='153.84615384615384' stroke='#2a9d5c' stroke-width='2.4'/>
+<polyline points='1070.4615384615386,159.3846153846154 1076.0,163.53846153846155 1080.1538461538462,158.0' fill='none' stroke='#8a8a8a' stroke-width='1'/>
+<circle cx='982.3076923076923' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='1097.6923076923076' cy='200.0' r='4.5' fill='#1f5fbf' stroke='#1f5fbf' stroke-width='1.8'/>
+<circle cx='1136.1538461538462' cy='200.0' r='4.5' fill='#c8102e' stroke='#c8102e' stroke-width='1.8'/>
+<circle cx='1040.0' cy='200.0' r='3' fill='#8a8a8a' stroke='#8a8a8a' stroke-width='1.8'/>
+<text x='982.3076923076923' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>0</text>
+<text x='1097.6923076923076' y='222.0' font-size='14' fill='#222' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>3/2</text>
+<text x='1136.1538461538462' y='222.0' font-size='14' fill='#c8102e' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>u = 2</text>
+<text x='1121.3846153846152' y='172.9230769230769' font-size='14' fill='#2a9d5c' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>t = 1</text>
+<text x='1040.0' y='130.30769230769232' font-size='13' fill='#1f5fbf' text-anchor='middle' font-family='Helvetica, Arial, sans-serif'>Q = u(u − 3/2)</text>
+<text x='1205.3846153846152' y='169.23076923076923' font-size='13' fill='#c8102e' text-anchor='start' font-family='Helvetica, Arial, sans-serif'>L = s − 2t</text>
+<text x='890' y='244' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Res(L, Q) = Q(2) = (2)(1/2) = 1: the point of L</text><text x='890' y='262' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>sits at unit power from the point-pair of Q.</text><text x='890' y='280' font-size='13' fill='#222' font-family='Helvetica, Arial, sans-serif'>Res = 0 is incidence: the ramification divisor.</text>
+</svg>

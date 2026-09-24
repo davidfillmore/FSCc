@@ -1,0 +1,39 @@
+== [01] Dictionary identities =====================================
+PASS - 1.1 Res(L,Q) = p^2 e - pqd + q^2 c
+PASS - 1.2 L(-q,p) = 0 and Res = Q(-q,p)
+PASS - 1.3a B(Q,Q) = disc Q = d^2 - 4ce
+PASS - 1.3b disc(L^2) = 0
+PASS - 1.3c B(L^2,Q) = -2 Res(L,Q)
+PASS - 1.4a tr(C1 C2) = -2 l1 l2 + m1 k2 + k1 m2 (real, i drops out)
+PASS - 1.4b tr(C_{Q1} C_{Q2}) = -1/2 B(Q1,Q2)
+PASS - 1.4c det Z(u0) = 0; det C_Q = disc(Q)/4
+PASS - 1.4d tr(C_Q Z(u0)) = Q(u0,1) (incidence pairing evaluates Q)
+PASS - 1.4e  ** tr(C_Q Z_L) = Res(L,Q) exactly (Kisil convention) **
+PASS - 1.4f Z_L = p^2 * Z(-q/p)
+PASS - 1.5a M_Q = 2 J S_Q = [[d, 2e], [-2c, -d]]
+PASS - 1.5b J g^T J^{-1} = g^{-1} for det g = 1
+PASS - 1.5c M_{Q o g} = g^{-1} M_Q g
+PASS - 1.5d det M_Q = -disc Q
+PASS - 1.6 Res(L o g, Q o g) = Res(L,Q) for det g = 1
+== [02] Torus theorem =============================================
+PASS - 2.1 combined torus preserves Res
+PASS - 2.2 combined torus preserves D(LQ) = pd + qc
+PASS - 2.3 torus alone: Res invariant, D(LQ) -> lam * D(LQ)
+PASS - 2.4 scalings: Res -> l1^2 l2 Res, D(LQ) -> l1 l2 D(LQ)
+PASS - 2.5 slice coords: a -> lam^2 a, y -> lam^-2 y, z -> lam^-4 z
+PASS - 2.6 constraints hold on the parametrised slice: Res = 1 and pd+qc = 1
+PASS - 2.7 inverse formulas recover (y,z)
+PASS - 2.8 F(tx, y/t, z/t^2) = (t^-2 F1, t^-1 F2, t F3)
+== [03] n = 2 dead end ============================================
+PASS - 3.1 (a,b)=(1,1): Res(al*L1, al^-1*L2) = Res(L1,L2) — scaling-invariant, cannot rigidify
+PASS - 3.2 invariants satisfy a*d = b*c and (on Res=1) c = b - 1, i.e. ad = b(b-1)
+PASS - 3.3 (a,b)=(1,2): Res(l1 L, l2 Q) = l1^2 l2 Res  (rigidifiable since weights (2,1) != 0)
+== [05] Representation obstructions ===============================
+PASS - 5.1 pairing on Sym^2 is symmetric; on Sym^3 antisymmetric
+PASS - 5.2 the Sym^3 pairing is SL2-invariant
+PASS - 5.3 dim S^2(Sym^3) = 10 = 7 + 3, dim L^2(Sym^3) = 6 = 5 + 1
+== [00] Alpöge certificate (baseline) =============================
+PASS - 0.1 det DF == -2 identically
+PASS - 0.2 three-point collision onto (-1/4, 0, 0)
+
+sympy 1.14.0; elapsed 0.3s; FAILS: none
